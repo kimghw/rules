@@ -1,12 +1,12 @@
-**2025 Rules for the Classification of Steel Ships**
+**2026 Rules for the Classification of Steel Ships**
 
 **Part 6 Electrical Equipment and Control Systems**
 
-**2025 Guidance Relating to the Rules for the Classification of Steel ships**
+**2026 Guidance Relating to the Rules for the Classification of Steel ships**
 
 **Part 6 Electrical Equipment and Control Systems**
 
-2025
+2026
 
 Rules for the Classification of Steel Ships
 
@@ -16,90 +16,42 @@ RA-06-E
 
 ## APPLICATION OF PART 6 "ELECTRICAL EQUIPMENT AND CONTROL SYSTEMS"
 
-1. Unless expressly specified otherwise, the requirements in the Rules apply to ships for which contracts for construction are signed on or after 1 July 2025.
-2. The amendments to the Rules for 2024 edition and their effective date are as follows;
+1. Unless expressly specified otherwise, the requirements in the Rules apply to ships for which contracts for construction are signed on or after 1 July 2026.
+2. The amendments to the Rules for 2025 edition and their effective date are as follows;
 
-Effective Date : 1 January 2025 (based on the contract date for ship construction, Related Circular No.: 2024-6-E)
-
-**CHAPTER 2 CONTROL SYSTEMS**
-
-**Section 2 System and Control**
-
-\- 202. 2 (1) (B), (3) (C) and 3 have been amended.
-
-\- 202. 4 (7) and (8) have been added.
-
-Effective Date : 1 January 2025 (based on the contract date for ship construction or date of which the application for survey is submitted, Related Circular No.: 2024-6-E)
-
-**CHAPTER 2 CONTROL SYSTEMS**
-
-**Section 1 General**
-
-\- 101. 2 (21) has been added.
-
-**Section 3 Tests**
-
-\- 303. 1 has been amended.
-
-\- 303. 2 has been added.
-
-Effective Date : 1 July 2025 (based on the application date for certification of UPS or the contract date for ship construction)
+Effective Date : 1 January 2026 (based on the contract date for ship construction, Related Circular No.: 2025-13-E)
 
 **CHAPTER 1 ELECTRICAL EQUIPMENT**
-
-**Section 12 Semi-Conductor Converters**
-
-\- 1203. has been amended.
-
-Effective Date : 1 July 2025
-
-**CHAPTER 1 ELECTRICAL EQUIPMENT**
-
-**Section 1 General**
-
-\- Table 6.1.1 has been amended.
-
-**Section 2 System Design**
-
-\- 205. 10 (2) has been added.
-
-**Section 3 Rotating Machinery**
-
-\- Table 6.1.10 has been amended.
 
 **Section 5 Cables**
 
-\- 512. has been deleted.
+\- 1603. 7. has been newly added.
 
-**Section 13 Accumulator Batteries**
+Effective Date : 1 July 2026
 
-\- 1307. 1 has been amended.
-
-\- 1307. 3. has been added.
-
-**Section 16 Electric Propulsion Unit**
-
-\- 1603. 3. has been deleted.
-
-**Section 17 Tests after Installation on Board**
-
-\- Table 6.1.35 has been amended.
-
-\- 1702. 1 (2) has been amended.
-
-**CHAPTER 2 CONTROL SYSTEMS**
+**CHAPTER 1 ELECTRICAL EQUIPMENT**
 
 **Section 1 General**
 
-\- Changed terminology(engine to propulsion machinery) has been applied.
+\- 101. 4. (16) has been newly added.
 
-**Section 2 System and Control**
+**Section 2 System Design**
 
-\- Changed terminology(engine to propulsion machinery) has been applied.
+\- 202. 2. (1) has been amended.
 
-**Section 3 Tests**
+**Section 11 Internal Communications**
 
-\- Changed terminology(engine to propulsion machinery) has been applied.
+\- 1106. has been amended.
+
+**Section 13 Accumulator Batteries**
+
+\- 1306. 7. has been newly added.
+
+\- 1308. (3) has been deleted.
+
+**Section 15 High Voltage Electrical installations**
+
+\- Table 6.1.32 has been amended.
 
 ## CONTENTS
 
@@ -285,6 +237,8 @@ Terms used in this Chapter are as follows:
 (A) the main propulsion plant, boilers and auxiliary machinery are not in operation due to the loss of the main source of electrical power, and
 
 (B) in restoring propulsion, the stored energy for starting the propulsion plant, the main source of electrical power and other essential auxiliary machinery is assumed to be not available. It is assumed that means are available to start the emergency generator at all times.
+
+(16) **Blackout situation** means that the main and auxiliary machinery installations, including the main power supply, are out of operation but the services for bringing them into operation (e.g. compressed air, starting current from batteries etc.) are available. *(2026)*
 
 (16) **Section board** is an assembly of switchgear, control gear, etc for controlling the supply of electrical power from a switchboard and distributing it to other section boards, distribution boards or final sub-circuits.
 
@@ -648,9 +602,9 @@ The these requirements apply to ships where harmonic filters are installed on ma
 
 **2. Transformers and Converters**
 
-(1) Capacity and number of transformer **【See Guidance】**
+(1) Capacity and number of transformer and converters *(2026)* **【See Guidance】**
 
-Where essential services are supplied, the number and ratings of transformers are to be sufficient to ensure the operation of essential services even when one transformer is out of service.
+Where essential services are supplied, the number and ratings of transformers and/or converters are to be sufficient to ensure the operation of essential services even when one of the transformers or converters is out of service.
 
 (2) Transformers and converters for battery charger
 
@@ -2716,14 +2670,11 @@ No switch is to be provided for feeder circuits of general emergency alarm syste
 
 (4) In general, the sound pressure levels are to be tested at 1 m from the sleeping position in cabins and the source which audible alarm is sounded.
 
-#### 1106. Public address system 【See Guidance】
+#### 1106. Public address system *(2026)* 【See Guidance】
 
-**1.** It is to be loudspeaker installation enabling the broadcast of messages into all spaces where crew members or passengers, or both, are normally present, and to muster stations.
+**1.** Public address systems shall allow for the broadcast of messages from the navigation bridge and at least one additional onboard location such as cargo control station, fire control station, or engine control station, as deemed necessary by the Society, and the broadcast shall be delivered via loudspeaker installations to all spaces where crew members or passengers, or both, are normally present, and to muster stations.
 
 **2.** Source of electrical power is to be supplied from the main source of electrical power and the emergency source of electrical power where used in order to supplement a general emergency alarm system.
-
-**3.** It is to allow for the broadcast of messages from the navigation bridge and such at least one other
-places (cargo control station, fire control station, engine control station, etc) on board the ship as the Society deems necessary.
 
 **4.** It is to be protected against unauthorized use.
 
@@ -3141,6 +3092,8 @@ The interior of all battery compartments is to be protected with lead-sheet lini
 
 6. Ventilating ducts terminating at least 1.25 m above in a gooseneck shape or equivalent are to be provided above the top of battery boxes. Holes for air inlets are to be provided on at least two opposite sides of the box.
 
+7. Where vented type batteries and/or valve-regulated sealed type batteries are installed, it is to be ensured that there is adequate ventilation. For vented type batteries, the Society’s requirements relevant to the location and installation are complied with. *(2026)*
+
 #### 1307. Charging facilities
 
 1. For floating service, the maximum battery voltage is not to exceed the permissible maximum voltage of any connected apparatus. A voltage regulator or other means of voltage control may be provided for this purpose. *(2025)*
@@ -3149,7 +3102,7 @@ The interior of all battery compartments is to be protected with lead-sheet lini
 
 3. The Chargers are to be constructed to simplify maintenance operation. In addition indications are to be provided to visualize the proper operation of the charger and for alarms. *(2025)*
 
-#### 1308. Maintenance record of battery
+#### 1308. Maintenance record of battery *(2026)*
 
 (1) Where batteries are fitted for use for essential and emergency services a schedule of such batteries is to be compiled and maintained. The schedule, which is to be reviewed by the Society's site Surveyor during the newbuilding survey, is to include at least the following information regarding the batteries:
 
@@ -3168,8 +3121,6 @@ The interior of all battery compartments is to be protected with lead-sheet lini
 (G) For replacement batteries in storage, the date of manufacture and shelf life
 
 (2) Procedures are to be put in place to ensure that where batteries are replaced that they are of an equivalent performance type.
-
-(3) Where vented type batteries replace valve-regulated sealed types, it is to be ensured that there is adequate ventilation and that the Society’s requirements relevant to the location and installation of vented types batteries are complied with.
 
 (4) Details of the schedule and of the procedures are to be included in the ship’s safety management system and be integrated into the ship’s operational maintenance routine as appropriate to be verified by the Society’s Surveyor.
 
@@ -3314,11 +3265,11 @@ Dry type transformers have to comply with IEC 60076-11:2018. Liquid cooled trans
 
 2. Test voltage of High voltage test is given in **Table 6.1.32**.
 
-**Table 6.1.32 High Voltage Test of Power Transformers**
+**Table 6.1.32 High Voltage Test of Power Transformers *(2026)***
 
 <table>
 <thead>
-<tr><th>System nominal voltage(kV)</th><th><i>a.c.</i> Test voltage of High voltage(kV), 1min.<br>commercial frequency(50Hz or 60Hz)</th></tr>
+<tr><th>Highest voltage for equipment(kV)</th><th><i>a.c.</i> Test voltage of High voltage(kV), 1min.<br>commercial frequency(50Hz or 60Hz)</th></tr>
 </thead>
 <tbody>
 <tr><td align="center">≤ 1.1</td><td align="center">3</td></tr>
@@ -3356,7 +3307,7 @@ Cables are to be constructed in accordance with the IEC 60092-353:2016 and IEC 6
 
 1. **General** *(2024)*
 
-Switchgear and controlgear assemblies are to be constructed according to IEC 62271-200:2011 and **1506. 2, 3, 4** and **6** of the Rules.
+Switchgear and controlgear assemblies are to be constructed according to IEC 62271-200:2011 and **1506. 2, 3** and **4** of the Rules.
 
 2. **Construction**
 
@@ -3570,6 +3521,20 @@ Prime movers are to comply with the requirements of **Pt 5, Ch 2, Sec 2** and **
 (1) The temperature of the cooling air of machines provided with forced air ventilation, air ducts, air filters or water coolers is to be continuously monitored by means of thermometers which are readable from outside the machine. Temperature sensors are to be provided to trigger an alarm.
 
 (2) For machines with water cooled heat exchangers, leakage monitoring is required.
+
+7. **Single essential propulsion components and their reliability (UI SC305)** *(2026)*
+
+In accordance with SOLAS Regulation II-1/26.2, single essential propulsion components and their reliability shall comply with the following requirements.
+
+(1) The possibility of failures in electric machines shall be considered. Sufficient propulsion capacity shall be maintained or restored within due time for the following failure modes of electric machines, as a minimum:
+
+(A) winding insulation failures; and
+
+(B) excitation failures.
+
+(2) Single electric propulsion motors (both single and dual winding with a single rotor) for main propulsion shall not be considered to provide the reliability required for a single essential propulsion component. A separate propulsion unit sufficient to give the ship a navigable speed should be required for such arrangements.
+
+(3) Propulsion arrangements with two independent rotors on a single shaft shall be considered to provide the required reliability, provided it is possible to de-excite or de-flux each of the rotors individually and to supply independently the stators.
 
 #### 1604. Control gear **【See Guidance】**
 
@@ -5482,7 +5447,7 @@ Loss of a data link shall be specifically addressed in risk assessment analysis/
 <tr><td colspan="6">(Legend)<br>"x" = Witnessing required, "-" = Witnessing not required</td></tr>
 </table>
 
-2025
+2026
 
 Guidance Relating to the Rules for the Classification of Steel Ships
 
@@ -5498,42 +5463,34 @@ As to any technical modifications which can be regarded as equivalent to any req
 
 ## APPLICATION OF PART 6 "ELECTRICAL EQUIPMENT AND CONTROL SYSTEMS"
 
-1. Unless expressly specified otherwise, the requirements in the Guidance apply to ships for which contracts for construction are signed on or after 1 July 2025.
-2. The amendments to the Guidance for 2024 edition and their effective date are as follows;
+1. Unless expressly specified otherwise, the requirements in the Guidance apply to ships for which contracts for construction are signed on or after 1 July 2026.
+2. The amendments to the Guidance for 2025 edition and their effective date are as follows;
 
-Effective Date : 1 January 2025 (based on the contract date for ship construction or date of which the application for survey is submitted, Related Circular No.: 2024-6-E)
-
-**CHAPTER 2 CONTROL SYSTEMS**
-
-**Section 3 Tests**
-
-\- 303. 1 has been amended.
-
-Effective Date : 1 July 2025
+Effective Date : 1 January 2026 (based on the contract date for ship construction, Related Circular No.: 2025-13-E)
 
 **CHAPTER 1 ELECTRICAL EQUIPMENT**
 
-**Section 1 General**
+**Section 5 Cables**
 
-\- 101. 1 (5) (B) (b) has been amended.
+\- 504. 1. (3) has been amended.
 
-\- 103. 4 (2) (B) has been deleted.
+\- 1603. 1. has been newly added.
+
+Effective Date : 1 July 2026
+
+**CHAPTER 1 ELECTRICAL EQUIPMENT**
 
 **Section 2 System Design**
 
-\- 202. 1 (2) (B) (b) has been amended.
+\- 202. 2. (3) has been amended.
 
-\- 203. 5 (2) has been added.
+\- Table 6.1.7 has been amended.
 
-\- 204. 1 (1) (B) has been amended.
+\- 203. 2. (2) has been amended.
 
-**Section 5 Cables**
+**Section 13 Accumulator Batteries**
 
-\- 512. has been deleted.
-
-**CHAPTER 2 CONTROL SYSTEMS**
-
-\- 202. 4 has been deleted.
+\- 1306. has been amended.
 
 ## CONTENTS
 
@@ -6077,9 +6034,9 @@ The detailed test methods and criteria are referred to IEC 60529.
 
 (E) Connections between earthing conductors and hull structure are to be made in an accessible position, and to be secured by a screw of brass or other corrosion resistance material of diameter not less than 4 mm which is to be used for this purpose only. In any case, the contact faces are to have glossy metal surface when screws are tightened.
 
-(3) **In a power distribution system where one line of the system is earthen and normally of non-current** carrying line, the earthing connection is to be as specified in (2) above. However, the upper limit value 64 mm² of the cross-sectional area of the earthing conductor given in **Table 6.1.7** of the Guidance does not apply.
+(3) **In a power distribution system where one line of the system is earthen and normally of non-current** carrying line, the earthing connection is to be as specified in (2) above. However, the upper limit value 70 mm² of the cross-sectional area of the earthing conductor given in **Table 6.1.7** of the Guidance does not apply. *(2026)*
 
-**Table 6.1.7 Sizes of Earthing Conductor**
+**Table 6.1.7 Sizes of Earthing Conductor** *(2026)*
 
 <table>
 <tr><th colspan="2">Kind of earthing conductor</th><th>Conductor's sectional area of current-carrying parts</th><th>Minimum sectional area of copper earthing conductor</th></tr>
@@ -6089,9 +6046,9 @@ The detailed test methods and criteria are referred to IEC 60529.
 <tr><td>Over 16 mm²</td><td>50 % of conductor's sectional area of current-carrying parts, but minimum 16 mm²</td></tr>
 <tr><td rowspan="2">Bared earthing conductor connected directly with lead sheath</td><td>2.5 mm² or less</td><td>1 mm²</td></tr>
 <tr><td>Over 2.5 mm² ~ 6 mm²</td><td>1.5 mm²</td></tr>
-<tr><td colspan="2" rowspan="3">3. Single earthing conductor</td><td>(a) 3 mm² or less</td><td>100 % of conductor's sectional area of current-carrying parts, but minimum 1.5 mm² in case of lead wire, and minimum 3 mm² in case of the others</td></tr>
-<tr><td>(b) Over 3 mm² ~ 125 mm²</td><td>50 % of conductor's sectional area of current-carrying parts, but minimum 3 mm²</td></tr>
-<tr><td>(c) over 125 mm²</td><td>64 mm²</td></tr>
+<tr><td colspan="2" rowspan="3">3. Single earthing conductor</td><td>(a) 2.5 mm² or less</td><td>100 % of conductor's sectional area of current-carrying parts, but minimum 1.5 mm² in case of lead wire, and minimum 2.5 mm² in case of the others</td></tr>
+<tr><td>(b) Over 2.5 mm² ~ 120 mm²</td><td>50 % of conductor's sectional area of current-carrying parts, but minimum 4 mm²</td></tr>
+<tr><td>(c) over 120 mm²</td><td>70 mm²</td></tr>
 </table>
 
 (4) In application to **201. 3** (3) of the Rules, portable electrical appliances are to be in accordance with the followings.
@@ -6244,25 +6201,29 @@ Generators and generator systems, having the ship's propulsion machinery as thei
 
 (1) The power supply period for the navigation lights (masthead lights, side lights and stern lights) specified in **203. 2** (2) (C) of the Rules, may be reduces to 3 hours under the acceptance of the domestic regulations of flag state of the ship.
 
-(2) In application to **203. 2** (2) (E) (a) of the Rules, "Internal communication equipment" means the following:
+(2) In application to **203. 2** (2) (E) (a) of the Rules, "Internal communication equipment" means the following: *(2026)*
 
-(A) Engine telegraph
+(A) For both passenger and cargo ships
 
-(B) Communication equipment between the navigation bridge and the main engine control stations other than main control station
+(a) The means of communication which is provided between the navigating bridge and the steering gear compartment.
 
-(C) Engineers′ alarm
+(b) The means of communication which is provided between the navigating bridge and the position in the machinery space and control room from which the engines are normally controlled(including Engine telegraph).
 
-(D) Communication other than general telephone between the navigation bridge and the steering gear compartment
+(c) The means of communication which is provided between the bridge and the radio telegraph or radio telephone stations, where separately arranged outside the bridge.
 
-(E) Other internal communication equipment as deemed necessary by the Society
+(d) The general emergency alarm system as required by SOLAS III/6.4.2
 
-(a) In case of passenger ships, the following requirements are to be complied with.
+(e) The public address system required by SOLAS III/6.4.2 for cargo ships and the public address system required by SOLAS III/6.5.4 for passenger ships.
 
-(i) The means of communication which is provided between the officer of the watch and the person responsible for closing any watertight door which is not capable of being closed from a central control station.
+(B) Additionally for passenger ships only
 
-(ii) The public address system or other effective means of communication which is provided throughout the accommodation, public and service spaces.
+(a) The means of communication which is provided between the officer of the watch and the person responsible for closing any watertight door which is not capable of being closed from a central control station as defined in SOLAS II-2/3.9.
 
-(iii) The means of communication which is provided between the navigating bridge and the main fire control station.
+(b) The means of communication which is provided between the navigating bridge and the fire control station.
+
+(c) The means of communication which is provided between the safety centre, the central control station, the navigation bridge, the engine control room, the storage room(s) for fire extinguishing system(s) and fire equipment lockers, as required by SOLAS II-2/23.5.
+
+(d) Internal communications in support of fire-fighting as required for passenger and crew notification and evacuation, as required by SOLAS II-2/22.3.1.2.
 
 (3) In application to **203. 2** (2) (E) (b) of the Rules, in case where domestic regulations of flag of the ship accept, the capacity of emergency source of power may be in accordance with the following:
 
@@ -6911,7 +6872,7 @@ $$\text{Voltage drop}(\%) = \left( \frac{R_{20} \times K \times 2L \times I \tim
 **Fig 6.1.6 Flame propagation prevention measures**
 > Description: Composite figure of fire stop arrangements for cable runs. (1) Cable runs in totally enclosed trunks, with B-0 penetrations where the cables leave the trunk; (2) cable runs in non totally enclosed trunks: (a) vertical cable runs with a fire stop of steel plate and B-0 penetration every 6 m (details Ⓐ and Ⓑ showing the plate extending 2$a$ beyond the cable bunch of width $a$) and (b) horizontal cable runs with steel plates and B-0 penetrations 14 m apart, the plate extending 1$a$ below the deck; (3) open cable runs: (a) vertical cable runs with fire stops (steel plate extending 2$a$ around the cables, B-0 penetration) every 6 m, or coating over the entire length, and (b) horizontal cable runs with fire stops (steel plate extending 1$a$, B-0 penetration) every 14 m, or 1 m of coating in every 14 m.
 
-(3) In application to **504. 3** (3) of the Rules, the followings are to be complied with.
+(3) In application to **504. 3** (3) of the Rules, the followings are to be complied with. *(2026)*
 
 (A) Electrical services required to be operable under fire conditions are as follows:
 
@@ -6935,13 +6896,13 @@ $$\text{Voltage drop}(\%) = \left( \frac{R_{20} \times K \times 2L \times I \tim
 
 (j) Remote emergency stop/shutdown arrangements for systems which may support the propagation of fire and/or explosion
 
-(B) In application to **504. 3** (3) of the Rules, the followings are to be complied with.
+(B) Compliance with the requirements for cables and cable installation used for the purpose of (A) may be achieved by either of the following measures:
 
-(a) Cables being of a fire resistant type complying with IEC 60331-1:2018 for cables of greater than 20 mm overall diameter, otherwise IEC 60331-21:1999+AMD1:2009 or IEC 60331-2:2018 for cables with an overall diameter not exceeding 20 mm, are installed and run continuous to keep the fire integrity within the high fire risk area. (see **Fig 6.1.7** of the Guidance) *(2022)*
+(a) Cables being of a fire resistant type complying with IEC 60331-1:2018 for cables of greater than 20 mm overall diameter, and IEC 60331-2:2018 for cables with an overall diameter not exceeding 20 mm, are installed and run continuous to keep the fire integrity within the high fire risk area. (see **Fig 6.1.7** of the Guidance)
 
 (b) At least two-loops/radial distributions run as widely apart as is practicable and so arranged that in the event of damage by fire at least one of the loops/radial distributions remains operational.
 
-Systems that are self monitoring, fail safe or duplicated with cable runs as widely separated as is practicable may be exempted.
+(c) Systems that are self monitoring, fail safe or duplicated with cable runs as widely separated as is practicable may be exempted.
 
 ![Fig 6.1.7 Example for Application of Fire Resistant Cables](images/f6a9f33d3332.png)
 **Fig 6.1.7 Example for Application of Fire Resistant Cables**
@@ -6949,9 +6910,9 @@ Systems that are self monitoring, fail safe or duplicated with cable runs as wid
 
 (C) The electrical cables to the emergency fire pump are not to pass through the machinery spaces containing the main fire pumps and their source(s) of power and prime mover(s). They are to be of a fire resistant type, in accordance with above (B) (a), where they pass through other high fire risk areas.
 
-(D) The definition for “high fire risk areas” is the following:
+(D) The definition of “high fire risk areas” is, at a minimum, to be considered as follows:
 
-(a) Machinery spaces as defined by **Pt 8, Ch 1, 103. 30** of the Rules, except spaces having little or no fire risk as defined by **Pt 8, Ch 7, 102. 3** (2) (B) ⑩ of the Rules.
+(a) Machinery spaces as defined by **Pt 8, Ch 1, 103. 30** of the Rules, except spaces having little or no fire risk as defined by **Pt 8, Ch 7, 102. 3** (2) (B) ⑩ of the Rules. (Including the interpretations for tables 9.3, 9.4, 9.5, 9.6, 9.7 and 9.8 given in MSC/Circ.1120 as amended by MSC.1/Circ.1436 and MSC.1/Circ.1510)
 
 (b) Spaces containing fuel treatment equipment and other highly flammable substances
 
@@ -6959,7 +6920,19 @@ Systems that are self monitoring, fail safe or duplicated with cable runs as wid
 
 (d) Laundry containing drying equipment
 
-(e) Spaces as defined by **Pt 8, Ch 7, 102. 3** (2) (B) ⑧, ⑫, ⑭ of the Rules for ships carrying more than 36 passengers
+(e) Cargo spaces except cargo tanks for liquids with flashpoint above 60°C and except cargo spaces exempted in accordance with SOLAS regulations II-2/10.7.1.2 or II- 2/10.7.1.4; and
+
+(f) Vehicle, ro-ro and special category spaces.
+
+(E) In application to **504. 3** (2) of the Rules, the following spaces are to be as a minimum considered as “other high fire risk areas”:
+
+(a) Cargo spaces except cargo tanks for liquids with flashpoint above 60°C and except cargo spaces exempted in accordance with SOLAS regulations II-2/10.7.1.2 or II- 2/10.7.1.4;
+
+(b) Vehicle, ro-ro and special category spaces;
+
+(c) Spaces containing flammable liquids; and
+
+(d) Pantries containing cooking appliances.
 
 (E) Fire resistant type cables are to be easily distinguishable.
 
@@ -7594,7 +7567,9 @@ In application to **1305.** (3) of the Rules, it may be exempted in case the ent
 
 #### 1306. Ventilation **【See Rule】**
 
-1. The capacity of exhaust ventilation of a battery compartment with vented type batteries is to be of the value obtained by the following formula or more. However, the ventilation rate for compartments containing valve-regulated sealed batteries may be reduced to 25 % of that given by the following formula. *(2018)*
+1. The ventilation arrangements for installation of batteries which have charging power higher than 2 kW are to be such that the quantity of air expelled is at least equal to: *(2026)*
+
+(1) Vented type batteries
 
 $$Q = 110 \times I \times n \quad (\mathrm{l/h})$$
 
@@ -7602,7 +7577,15 @@ $$Q = 110 \times I \times n \quad (\mathrm{l/h})$$
 - $I\ (\mathrm{A})$ : Maximum current delivered by the charging equipment during gas formation, but not less than 25 % of the maximum obtainable charging current in amperes
 - $n$ : Number of cells in series
 
+(2) Valve-regulated sealed type batteries
+
+The ventilation rate for compartments containing valve-regulated sealed type batteries may be reduced to 25 per cent of that given above.
+
+(3) As an alternative to (1), other industrial standards may be utilized to calculate ventilation rate, for example, section 7.2 and 7.3 of IEC 62485-2:2010, or section CC.2 of Annex CC to IEC 62040-1:2017, as appropriate.
+
 2. The minimum cross-sectional area of ventilation ducts is to be of the value obtained by the following formula or more. *(2019)*
+
+(1) Vented type batteries
 
 $$A = 5.6/1000 \times Q \quad (\mathrm{Cm^2})$$
 
@@ -7672,6 +7655,22 @@ In application to **1507. 1** (3) of the Rules, “safe and effective measures�
 (3) Combustible materials and electrical equipments are not admissible in the area of coming out gases.
 
 ### Section 16 Electric Propulsion Unit
+
+#### 1603. Rotating Machines *(2026)*
+
+1. In application to **1603. 7** of the Rules, examples of acceptable arrangements for roatating machines are illustrated in **Figures 6.1.8** to **6.1.10**.
+
+![Fig 6.1.8 Asynchronous machines or machines that can be de-excited](images/b239a0b6b567.png)
+**Fig 6.1.8 Asynchronous machines or machines that can be de-excited**
+> Description: Two motors M1 and M2 are each connected directly by a shaft to a common gear box (Gear), whose single output shaft drives the propeller.
+
+![Fig 6.1.9 Permanent magnet machines with clutches](images/c38dc0aa84e5.png)
+**Fig 6.1.9 Permanent magnet machines with clutches**
+> Description: Two motors M1 and M2 are each connected through a clutch (double bar symbol) to a common gear box (Gear), whose output shaft drives the propeller.
+
+![Fig 6.1.9 Asynchronous machines or machines that can be de-excited](images/c4f2102f7707.png)
+**Fig 6.1.9 Asynchronous machines or machines that can be de-excited**
+> Description: Two motors M1 and M2 are arranged in tandem on one common shaft directly driving the propeller, without a gear box.
 
 #### 1604. Control gear **【See Rule】**
 
@@ -7900,6 +7899,6 @@ FAX : +82 70 8799 8999
 
 Website : http://www.krs.co.kr
 
-Copyright© 2025, KR
+Copyright© 2026, KR
 
 Reproduction of this Rules and Guidance in whole or in parts is prohibited without permission of the publisher.
