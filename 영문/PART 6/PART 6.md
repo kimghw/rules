@@ -240,11 +240,11 @@ Terms used in this Chapter are as follows:
 
 (16) **Blackout situation** means that the main and auxiliary machinery installations, including the main power supply, are out of operation but the services for bringing them into operation (e.g. compressed air, starting current from batteries etc.) are available. *(2026)*
 
-(16) **Section board** is an assembly of switchgear, control gear, etc for controlling the supply of electrical power from a switchboard and distributing it to other section boards, distribution boards or final sub-circuits.
+(17) **Section board** is an assembly of switchgear, control gear, etc for controlling the supply of electrical power from a switchboard and distributing it to other section boards, distribution boards or final sub-circuits.
 
-(17) **Distribution board** is an assembly of one or more protective devices arranged for the distribution of electrical power to final sub-circuits.
+(18) **Distribution board** is an assembly of one or more protective devices arranged for the distribution of electrical power to final sub-circuits.
 
-(18) **Diversity factor** is the ratio of the estimated total load of a group of consumers under their normal working conditions to the sum of their nominal ratings. *(2019)*
+(19) **Diversity factor** is the ratio of the estimated total load of a group of consumers under their normal working conditions to the sum of their nominal ratings. *(2019)*
 
 #### 102. Drawings and data
 
@@ -2676,11 +2676,11 @@ No switch is to be provided for feeder circuits of general emergency alarm syste
 
 **2.** Source of electrical power is to be supplied from the main source of electrical power and the emergency source of electrical power where used in order to supplement a general emergency alarm system.
 
-**4.** It is to be protected against unauthorized use.
+**3.** It is to be protected against unauthorized use.
 
-**5.** It is to be installed with regard to acoustically marginal conditions and not require any action form the addressee.
+**4.** It is to be installed with regard to acoustically marginal conditions and not require any action form the addressee.
 
-**6.** With the ship underway in normal conditions, the minimum sound pressure levels for broadcasting emergency announcements shall be as follows.
+**5.** With the ship underway in normal conditions, the minimum sound pressure levels for broadcasting emergency announcements shall be as follows.
 
 (1) In interior spaces 75 dB(A) and at least 20 dB(A) above the speech interference level; and
 
@@ -2688,7 +2688,7 @@ No switch is to be provided for feeder circuits of general emergency alarm syste
 
 (3) In general, the sound pressure levels are to be tested at 1 m from the sleeping position in cabins and the source which audible alarm is sounded.
 
-**7.** It is to be arranged to minimize the effect of a single failure where used in order to supplement a general emergency alarm system.
+**6.** It is to be arranged to minimize the effect of a single failure where used in order to supplement a general emergency alarm system.
 
 ### Section 12 Semi-Conductor Converters *(2023)*
 
@@ -3104,25 +3104,25 @@ The interior of all battery compartments is to be protected with lead-sheet lini
 
 #### 1308. Maintenance record of battery *(2026)*
 
-(1) Where batteries are fitted for use for essential and emergency services a schedule of such batteries is to be compiled and maintained. The schedule, which is to be reviewed by the Society's site Surveyor during the newbuilding survey, is to include at least the following information regarding the batteries:
+1. Where batteries are fitted for use for essential and emergency services a schedule of such batteries is to be compiled and maintained. The schedule, which is to be reviewed by the Society's site Surveyor during the newbuilding survey, is to include at least the following information regarding the batteries:
 
-(A) Type and manufacturer's type designation
+(1) Type and manufacturer's type designation
 
-(B) Voltage and ampere-hour rating
+(2) Voltage and ampere-hour rating
 
-(C) Location
+(3) Location
 
-(D) Equipment and/or systems served
+(4) Equipment and/or systems served
 
-(E) Maintenance/replacement cycle dates
+(5) Maintenance/replacement cycle dates
 
-(F) Dates of last maintenance and/or replacement
+(6) Dates of last maintenance and/or replacement
 
-(G) For replacement batteries in storage, the date of manufacture and shelf life
+(7) For replacement batteries in storage, the date of manufacture and shelf life
 
-(2) Procedures are to be put in place to ensure that where batteries are replaced that they are of an equivalent performance type.
+2. Procedures are to be put in place to ensure that where batteries are replaced that they are of an equivalent performance type.
 
-(4) Details of the schedule and of the procedures are to be included in the ship’s safety management system and be integrated into the ship’s operational maintenance routine as appropriate to be verified by the Society’s Surveyor.
+3. Details of the schedule and of the procedures are to be included in the ship’s safety management system and be integrated into the ship’s operational maintenance routine as appropriate to be verified by the Society’s Surveyor.
 
 ### Section 14 Lightning Conductors
 
@@ -6934,9 +6934,9 @@ $$\text{Voltage drop}(\%) = \left( \frac{R_{20} \times K \times 2L \times I \tim
 
 (d) Pantries containing cooking appliances.
 
-(E) Fire resistant type cables are to be easily distinguishable.
+(F) Fire resistant type cables are to be easily distinguishable.
 
-(F) For special cables, requirements in the following standards may be used:
+(G) For special cables, requirements in the following standards may be used:
 
 (a) Electric data cables : IEC 60331-23:1999 *(2022)*
 
